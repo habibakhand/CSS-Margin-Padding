@@ -1,0 +1,30 @@
+h1{
+    background-color: rgb(71, 12, 231);
+    color: rgb(36, 219, 173);
+    text-align: center;
+    text-shadow: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#id{
+    color: bisque;
+}
+
+#cssintroduction{
+    background-color: blanchedalmond;
+    color: #000;
+}
+
+p{
+    font-size: 2rem;
+    background-color: rgb(207, 183, 230);
+    text-align: center;
+    padding: 10px 20px 25px 30px;
+    border: 3px solid rgb(218, 32, 134);
+}
+
+h3{
+    background-color: rgb(0, 195, 255);
+    padding: 20px;
+    border: 5px solid;
+    font-size: 1.5rem;
+}
